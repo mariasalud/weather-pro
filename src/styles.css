@@ -1,0 +1,106 @@
+body {
+  font-family: Segoe UI, Segoe WP, Arial, Sans-Serif;
+  background: blue;
+  margin: 50px;
+  width: 800px;
+}
+#green {
+  position: relative;
+  right: -350px;
+  top: -37px;
+}
+
+h1 {
+  color: #fcfefe;
+  font-size: 30px;
+  line-height: 50px;
+  margin: 0;
+}
+ul {
+  margin: 0 0 30px;
+  padding: 0;
+}
+li {
+  color: #fcfefe;
+  font-size: 25px;
+  height: 20px;
+  line-height: 1;
+  list-style: none;
+}
+
+.weather-app {
+  border: 3px solid #fcfefe;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 400;
+  background: #0060ca;
+}
+
+.sun-icon {
+  color: #ffc93c;
+  font-size: 75px;
+}
+.temperature {
+  font-size: 70px;
+  font-weight: 400;
+  color: #fcfefe;
+}
+.units {
+  position: relative;
+  top: -25px;
+  right: -65px;
+  color: #fcfefe;
+}
+.two {
+  color: #fcfefe;
+}
+#description {
+  position: relative;
+  bottom: -25px;
+  font-size: 30px;
+  color: #fcfefe;
+}
+.borders {
+  border: 3px solid #fcfefe;
+  border-radius: 10px;
+  display: block;
+  height: 250px;
+  background: #0060ca;
+}
+
+.days .wednesday {
+  position: relative;
+  bottom: -55px;
+  right: -30px;
+  color: #fcfefe;
+  font-size: 25px;
+}
+.days .thursday {
+  position: relative;
+  right: -110px;
+  top: -132px;
+}
+.days .friday {
+  position: relative;
+  right: -135px;
+  top: -135px;
+}
+.days .saturday {
+  position: relative;
+  right: -130px;
+  top: -135px;
+}
+.days .sunday {
+  position: relative;
+  right: -140px;
+  top: -135px;
+}
+.days .monday {
+  position: relative;
+  right: -135px;
+  top: -135px;
+}
+.class-sun {
+  color: yellow;
+}
