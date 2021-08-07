@@ -104,3 +104,8 @@ li {
 .class-sun {
   color: yellow;
 }
+.footer {
+  position:relative;
+  right:540px;
+  top:-60px;
+}
