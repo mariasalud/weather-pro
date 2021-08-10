@@ -5,6 +5,7 @@ body {
   width: 850px;
   box-shadow: 1px 4px 10px;
   padding:25px;
+  border-radius: 10px;
 
 }
 #green {
