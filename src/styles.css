@@ -2,7 +2,9 @@ body {
   font-family: Segoe UI, Segoe WP, Arial, Sans-Serif;
   background:blue;
   margin: 150px 150px;
-  width: 800px;
+  width: 850px;
+  box-shadow: 1px 4px 10px;
+
 }
 #green {
   position: relative;
