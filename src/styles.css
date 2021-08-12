@@ -115,7 +115,7 @@ li {
 position:relative;
 right:-13px;
 bottom:-3px;
-
+}
 .class-cloud {
   position:relative;
   right:-18px;
@@ -144,6 +144,6 @@ bottom:-4px;
 }
 .footer {
   position:relative;
-  right:361px;
+  right:360px;
   top:-225px;
 }
