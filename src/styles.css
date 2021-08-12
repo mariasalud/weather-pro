@@ -74,40 +74,73 @@ li {
   background: #0060ca;
 }
 
-.days .wednesday {
+ .wednesday {
   position: relative;
-  bottom: -55px;
+  bottom: -48px;
   right: -30px;
   color: #fcfefe;
   font-size: 25px;
 }
-.days .thursday {
+ .thursday {
   position: relative;
-  right: -110px;
-  top: -132px;
+  right: -115px;
+  top: -147px;
 }
-.days .friday {
+ .friday {
+  position: relative;
+  right: -133px;
+  top: -148px;
+}
+ .saturday {
+  position: relative;
+  right: -100px;
+  top: -148px;
+}
+.sunday {
   position: relative;
   right: -135px;
-  top: -135px;
+  top: -148px;
 }
-.days .saturday {
-  position: relative;
-  right: -130px;
-  top: -135px;
-}
-.days .sunday {
-  position: relative;
-  right: -140px;
-  top: -135px;
-}
-.days .monday {
+ .monday {
   position: relative;
   right: -135px;
-  top: -135px;
+  top: -144px;
 }
 .class-sun {
   color: yellow;
+  position: relative;
+  right:-18px;
+}
+.class-showers {
+position:relative;
+right:-13px;
+bottom:-3px;
+
+.class-cloud {
+  position:relative;
+  right:-18px;
+  bottom:-3px;
+}
+.class-storm {
+  position: relative;
+  right: -19px;
+  bottom:-3px;
+}
+.predict {
+  position:relative;
+  right:-18px;
+
+}
+.forcast {
+  position:relative;
+  right:-12px;
+  bottom:-4px;
+}
+.estimate {
+  position: relative;
+right:-20px;
+bottom:-4px;
+
 }
 .footer {
   position:relative;
